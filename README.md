@@ -1,0 +1,4 @@
+- 👋 Hello there, i'm Omega😎
+- 👀 I’m interested in grills
+- 🌱 I’m currently learning javascript but not java
+- 💞️ I’m looking to collaborate with Daddy Noel
